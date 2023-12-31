@@ -2,3 +2,7 @@
   font-variant-caps: small-caps;
   font-style: bold;
 }
+
+body {
+  background-color: lightblue;
+}

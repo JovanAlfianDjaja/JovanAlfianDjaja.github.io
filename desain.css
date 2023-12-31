@@ -9,3 +9,8 @@ head{
 body{
   background-color: azure;
 }
+
+.list {
+  font-size:3em;
+  font-type:bold;
+}

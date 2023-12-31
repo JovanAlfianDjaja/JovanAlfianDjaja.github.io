@@ -2,4 +2,10 @@
   text-align: center;
 }
 
-background-color: azure;
+head{
+  background-color: azure;
+}
+
+body{
+  background-color: azure;
+}

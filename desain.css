@@ -11,6 +11,5 @@ body{
 }
 
 .list {
-  font-size:3em;
-  font-type:bold;
+  font:1.5em,bold;
 }

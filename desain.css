@@ -29,3 +29,8 @@ a{
  color: #0000cd;
  text-decoration: none;
 }
+
+a:hover{
+  font-weight: bold;
+  color: navy;
+}

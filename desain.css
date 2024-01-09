@@ -30,13 +30,7 @@ a{
  text-decoration: none;
 }
 
-a:hover{
+a:hover,a:visited{
   font-weight: bold;
   color: navy;
-}
-
-a:active{
-  font-weight: bold;
-  color: navy;
-  text-decoration: underline navy double auto;
 }

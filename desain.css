@@ -27,11 +27,15 @@ header h1{
 }
 
 a{
- color: #0000cd;
+ color: white;
  text-decoration: none;
 }
 
 a:hover,a:visited{
   font-weight: bold;
-  color: navy;
+}
+
+.banner{
+  background-color: teal;
+  color: white;
 }

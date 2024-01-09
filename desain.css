@@ -26,6 +26,11 @@ header h1{
 }
 
 a{
- color: navy;
+ color: mediumblue;
  text-decoration: none;
+}
+
+a:hover{
+  font-weight: bold;
+  color: navy;
 }

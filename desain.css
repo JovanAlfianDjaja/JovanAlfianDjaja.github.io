@@ -16,12 +16,12 @@ header > h1{
     overflow: hidden;
 }
 
-head a{
+header > a{
  color: white;
  text-decoration: none;
 }
 
-head a:hover{
+header > a:hover{
   font-weight: bold;
 }
 

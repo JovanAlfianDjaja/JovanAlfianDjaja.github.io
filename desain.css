@@ -16,12 +16,12 @@ header > h1{
     overflow: hidden;
 }
 
-div a{
- color: white;
- text-decoration: none;
+.navbar{
+  color: white;
+  text-decoration: none;
 }
 
-div a:hover{
+.navbar a:hover{
   font-weight: bold;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 body a{
-  color: mediumblue;
+  color: blue;
   text-decoration: none;
 }
 

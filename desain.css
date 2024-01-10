@@ -3,12 +3,9 @@
   margin: auto;
 }
 
-*{
-  font-family: "Overpass"}
-}
-
 header{
   text-align: center;
+  font-family: "Overpass";
 }
 
 header h1{
@@ -37,6 +34,7 @@ header a:hover,.active{
 }
 
 body{
+  font-family:"Overpass";
   line-height: 1.5;
   background-color: azure;
 }

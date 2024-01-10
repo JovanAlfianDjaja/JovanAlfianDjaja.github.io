@@ -39,7 +39,6 @@ header a:hover,.active{
 body{
   line-height: 1.5;
   background-color: azure;
-  text-justify: inter-word;
 }
 
 .list {

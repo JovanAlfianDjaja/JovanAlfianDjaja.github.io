@@ -1,3 +1,7 @@
+*{
+  font-family: "Overpass"}
+}
+
 .cen {
   text-align: center;
   margin: auto;
@@ -7,30 +11,18 @@ header{
   text-align: center;
 }
 
-body{
-  line-height: 1.5;
-  background-color: azure;
-  font-family: "Overpass";
-}
-
-.list {
-  font-size:1.5em;
-  font-weight:bold;
-}
-
 header h1{
-    font-family: "Overpass";
     font-size: 32px;
     font-weight: 600;
     text-align: center;
 }
 
-a{
+header a{
  color: white;
  text-decoration: none;
 }
 
-a:hover,.active{
+header a:hover,.active{
   font-weight: bold;
 }
 
@@ -42,4 +34,14 @@ a:hover,.active{
   margin: 0 0;
   box-shadow: 0 2px 5px 1px midnightblue;
   margin-bottom: 10px;
+}
+
+body{
+  line-height: 1.5;
+  background-color: azure;
+}
+
+.list {
+  font-size:1.5em;
+  font-weight:bold;
 }

@@ -30,8 +30,9 @@ a{
  text-decoration: none;
 }
 
-a:hover,a:visited{
+a:hover,.active{
   font-weight: bold;
+  text-decoration: underline white;
 }
 
 .banner{

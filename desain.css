@@ -19,7 +19,7 @@ header a{
  text-decoration: none;
 }
 
-header a:hover,.active{
+header a:hover{
   font-weight: bold;
 }
 
@@ -37,6 +37,16 @@ body{
   font-family:"Overpass";
   line-height: 1.5;
   background-color: azure;
+}
+
+body a{
+  color: mediumblue;
+  text-decoration: none;
+}
+
+body a:hover{
+  color: midnightblue;
+  font-weight: bold;
 }
 
 p{

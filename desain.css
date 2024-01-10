@@ -32,7 +32,6 @@ a{
 
 a:hover,.active{
   font-weight: bold;
-  text-decoration: underline white;
 }
 
 .banner{

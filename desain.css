@@ -1,10 +1,10 @@
-*{
-  font-family: "Overpass"}
-}
-
 .cen {
   text-align: center;
   margin: auto;
+}
+
+*{
+  font-family: "Overpass"}
 }
 
 header{
@@ -39,6 +39,7 @@ header a:hover,.active{
 body{
   line-height: 1.5;
   background-color: azure;
+  text-justify: inter-word;
 }
 
 .list {

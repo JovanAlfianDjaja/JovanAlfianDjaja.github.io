@@ -8,18 +8,18 @@ header{
   font-family: "Overpass";
 }
 
-header h1{
+header > h1{
     font-size: 32px;
     font-weight: 600;
     text-align: center;
 }
 
-header a{
+header > a{
  color: white;
  text-decoration: none;
 }
 
-header a:hover{
+header > a:hover{
   font-weight: bold;
 }
 
@@ -39,12 +39,12 @@ body{
   background-color: azure;
 }
 
-body a{
+body > a{
   color: mediumblue;
   text-decoration: none;
 }
 
-body a:hover{
+body > a:hover{
   color: midnightblue;
   font-weight: bold;
 }

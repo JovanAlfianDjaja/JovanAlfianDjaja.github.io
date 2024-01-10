@@ -41,12 +41,12 @@ body{
   background-color: azure;
 }
 
-p > a{
+p,li > a{
   color: mediumblue;
   text-decoration: none;
 }
 
-p > a:hover{
+p,li > a:hover{
   color: midnightblue;
   font-weight: bold;
 }

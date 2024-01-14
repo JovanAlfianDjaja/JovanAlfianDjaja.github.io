@@ -69,5 +69,6 @@ p{
 
 .resp {
   width: 100%;
+  max-width: device-width;
   height: auto;
 }

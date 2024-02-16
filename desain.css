@@ -82,7 +82,7 @@ p{
   bottom: 0;
   left: 0;
   right: 0;
-  top: 100%;
+  overflow:hidden;
   padding: 2rem;
   background: midnightblue;
   color: white;

@@ -33,6 +33,14 @@
     <br>
     <hr>
     <footer>
+      <div class="footer"><span id="year"> </span><span> Your Company Name. All rights reserved.</span></div>
+      <script>
+      let year = document.querySelector("#year");
+
+$(document).ready(function () {
+  year.innerText = new Date().getFullYear();
+});
+      </script>
     © Jovan Alfian Djaja <br>
       <script>
        document.write("Last modified: " + document.lastModified)

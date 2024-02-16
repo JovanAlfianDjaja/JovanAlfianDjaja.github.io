@@ -32,7 +32,13 @@
       </div>
     <br>
     <footer>
-      <div class="footer">&copy;<span id="year"> </span><span> Jovan Alfian Djaja</span></div>
+      <div class="footer">&copy;<span>
+      <script>
+      const d = new Date();
+      let year = d.getFullYear();
+      document.getElementById("demo").innerHTML = year;
+      </script>
+      </span><span> Jovan Alfian Djaja</span></div>
       <script src="https://momentjs.com/downloads/moment.min.js">
        !-- document.write("Last modified: " + document.lastModified)
       </script>

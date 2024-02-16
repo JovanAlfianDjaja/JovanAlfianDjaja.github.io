@@ -38,20 +38,6 @@ header > h1{
   margin-bottom: 15px;
 }
 
-footer .banner{
-  background-color: midnightblue;
-  color: white;
-  width: 100%;
-  height: auto;
-  margin: 0 0;
-  top: 100%;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  box-shadow: 0 2px 5px 1px midnightblue;
-  margin-bottom: 15px;
-}
-
 body{
   font-family:"Overpass";
   line-height: 1.5;
@@ -91,7 +77,7 @@ p{
 }
 
 .footer{
-  position: relative;
+  position: fixed;
   font-weight: bold;
   bottom: 0;
   left: 0;

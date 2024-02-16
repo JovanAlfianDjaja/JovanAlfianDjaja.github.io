@@ -34,16 +34,15 @@
     <hr>
     <footer>
       <div class="footer">&copy;<span id="year"> </span><span> Jovan Alfian Djaja</span></div>
-      <script>
       let year = document.querySelector("#year");
       $(document).ready(function () {
       year.innerText = new Date().getFullYear();
       });
       document.write
-      </script>
+
     © Jovan Alfian Djaja <br>
+      console.log('Converted date: '+ moment().format('MMMM Do YYYY'));
       <script src="https://momentjs.com/downloads/moment.min.js">
-       console.log('Converted date: '+ moment().format('MMMM Do YYYY'));
        !-- document.write("Last modified: " + document.lastModified)
       </script>
     </footer>

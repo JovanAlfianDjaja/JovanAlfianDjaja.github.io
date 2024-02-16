@@ -33,17 +33,18 @@
     <br>
     <hr>
     <footer>
-      <div class="footer"><span id="year"> </span><span> Your Company Name. All rights reserved.</span></div>
+      <div class="footer">&copy;<span id="year"> </span><span> Jovan Alfian Djaja</span></div>
       <script>
       let year = document.querySelector("#year");
-
-$(document).ready(function () {
-  year.innerText = new Date().getFullYear();
-});
+      $(document).ready(function () {
+      year.innerText = new Date().getFullYear();
+      });
+      document.write
       </script>
     © Jovan Alfian Djaja <br>
-      <script>
-       document.write("Last modified: " + document.lastModified)
+      <script src="https://momentjs.com/downloads/moment.min.js">
+       console.log('Converted date: '+ moment().format('MMMM Do YYYY'));
+       !-- document.write("Last modified: " + document.lastModified)
       </script>
     </footer>
   </body>

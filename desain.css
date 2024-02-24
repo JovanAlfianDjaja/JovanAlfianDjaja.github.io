@@ -77,7 +77,7 @@ p{
 }
 
 .footer{
-  position: absolute;
+  position: relative;
   font-weight: bold;
   bottom: 0;
   left: 0;

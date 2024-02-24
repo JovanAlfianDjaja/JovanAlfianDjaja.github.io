@@ -78,7 +78,7 @@ p{
 }
 
 .footer{
-  position: flow;
+  position: absolute;
   display: flex;
   font-weight: bold;
   bottom: 0;

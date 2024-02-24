@@ -86,7 +86,6 @@ p{
   padding: 2rem;
   background: midnightblue;
   color: white;
-  display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.2rem;

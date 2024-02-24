@@ -43,8 +43,6 @@ body{
   line-height: 1.5;
   background-color: azure;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 }
 
 body a{
@@ -80,13 +78,14 @@ p{
 }
 
 .footer{
-  position: absolute;
+  position: flow;
   display: flex;
   font-weight: bold;
   bottom: 0;
   left: 0;
   right: 0;
   margin-top: auto;
+  clear: both;
   padding: 2rem;
   background: midnightblue;
   color: white;

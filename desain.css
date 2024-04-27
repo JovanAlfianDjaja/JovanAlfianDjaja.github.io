@@ -81,19 +81,7 @@ hr{
   height: auto;
 }
 
-.footer{
-  position: absolute;
-  display: flex;
+footer{
   font-weight: bold;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin-top: auto;
-  clear: both;
-  padding: 2rem;
-  background: midnightblue;
-  color: white;
-  justify-content: center;
-  align-items: center;
-  gap: 0.2rem;
+  text-align: center;
 }

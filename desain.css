@@ -60,6 +60,10 @@ p{
   text-justify: inter-word;
 }
 
+hr{
+  border: 2px solid midnightblue;
+}
+
 .clearfix::after{
   content: "";
   clear: both;

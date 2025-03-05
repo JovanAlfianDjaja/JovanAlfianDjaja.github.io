@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="desain.css">
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass">
     <div class="banner">
     <header>
@@ -34,12 +35,9 @@
 <hr>
 <footer>
     © Jovan Alfian Djaja
-</footer>
-    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
     <script>
-      let lastModified = moment(document.lastModified).format('Do MMMM YYYY, H:mm:ss');
-      document.getElementById('lastModified').innerText = "Last Modified: " + lastModified;
-      console.log("Last Modified: " + lastModified);
+      document.write("Last Modified: " + moment(document.lastModified).format('Do MMMM YYYY, H:mm:ss'));
     </script>
+</footer>
   </body>
 </html>

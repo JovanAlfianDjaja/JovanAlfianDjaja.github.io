@@ -3,6 +3,10 @@
   margin: auto;
 }
 
+head{
+  margin: 0;
+}
+
 header{
   text-align: center;
   font-family: "Overpass";

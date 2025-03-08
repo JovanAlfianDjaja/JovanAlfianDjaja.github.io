@@ -3,10 +3,6 @@
   margin: auto;
 }
 
-head{
-  background-color:midnightblue;
-}
-
 header{
   text-align: center;
   font-family: "Overpass";
@@ -46,6 +42,7 @@ header > h1{
 
 .footer{
   background-color:midnightblue;
+  border: 5px solid midnightblue;
   color:white;
   width:100%;
   height:75px;
@@ -105,7 +102,6 @@ hr{
 footer{
   font-weight: bold;
   text-align: center;
-  background-color: midnightblue;
 }
 
 /* MEDIA QUERIES */

@@ -34,10 +34,11 @@ header > h1{
   color: white;
   width: 100%;
   height: auto;
-  margin: 0 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  border: 5px solid midnightblue;
+  /*margin: 0 0;*/
+  /*bottom: 0;*/
+  /*left: 0;*/
+  /*right: 0;*/
   /*box-shadow: 0 2px 5px 1px midnightblue;*/
   margin-bottom: 15px;
   padding-bottom: 5px;

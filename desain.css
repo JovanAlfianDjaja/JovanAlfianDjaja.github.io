@@ -104,6 +104,7 @@ hr{
 footer{
   font-weight: bold;
   text-align: center;
+  background-color: midnightblue;
 }
 
 /* MEDIA QUERIES */

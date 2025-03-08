@@ -99,3 +99,17 @@ footer{
   font-weight: bold;
   text-align: center;
 }
+
+/* MEDIA QUERIES */
+/* 1. MOBILE */
+@media (max-width: 599px) {
+  body {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}

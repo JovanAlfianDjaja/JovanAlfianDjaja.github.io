@@ -27,6 +27,7 @@ header > h1{
 
 head, body {
   margin: 0;
+  padding: 5vw;
 }
 
 .banner{

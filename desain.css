@@ -61,6 +61,11 @@ head {
   margin-top:15px;
 }
 
+.pad {
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+
 body{
   font-family:"Overpass";
   line-height: 1.5;

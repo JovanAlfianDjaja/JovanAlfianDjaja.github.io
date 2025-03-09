@@ -29,6 +29,11 @@ head {
   margin: 0;
 }
 
+body {
+  margin: 0;
+  padding-left: 2%;
+}
+
 .banner{
   background-color: midnightblue;
   color: white;
@@ -66,8 +71,6 @@ body{
   line-height: 1.5;
   background-color: azure;
   min-height: 100vh;
-  margin: 0;
-  padding-left: 2%;
 }
 
 body a{

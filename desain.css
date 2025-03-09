@@ -25,6 +25,10 @@ header > h1{
   font-weight: bold;
 }
 
+head, body {
+  margin: 0;
+}
+
 .banner{
   background-color: midnightblue;
   color: white;
